@@ -8,6 +8,9 @@ namespace EmployeeWageProgram
 {
     public class DailyWage
     {
+        /// <summary>
+        /// Calculates the daily wage.
+        /// </summary>
         public static void CalculateDailyWage()
         {
             Random random = new Random();
