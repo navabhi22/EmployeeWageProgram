@@ -8,6 +8,9 @@ namespace EmployeeWageProgram
 {
     public class EmployeWageUsingSwitchCase
     {
+         /// <summary>
+        /// EmployeeWageProgram by using Switch Case
+        /// </summary>
         public const int IsPresent=1;
         public const int IsPartTime=2;
         public const int PartTimeHour=4;
