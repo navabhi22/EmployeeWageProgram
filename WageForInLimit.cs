@@ -8,6 +8,9 @@ namespace EmployeeWageProgram
 {
     public class WageForInLimit
     {
+        /// <summary>
+        /// Calulating Wage for 10 days or less than 100 hours
+        /// </summary>
         public const int IsPresent = 1;
         public const int IsPartTime = 2;
         public const int PartTimeHour = 4;
