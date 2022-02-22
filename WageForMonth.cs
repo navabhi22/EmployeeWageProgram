@@ -8,6 +8,9 @@ namespace EmployeeWageProgram
 {
     public class WageForMonth
     {
+        /// <summary>
+        /// Calculating Monthly Wage
+        /// </summary>
         public const int IsPresent = 1;
         public const int IsPartTime = 2;
         public const int PartTimeHour = 4;
