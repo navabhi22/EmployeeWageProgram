@@ -8,6 +8,9 @@ namespace EmployeeWageProgram
 {
     public class AddPartTimeEmployeeWage
     {
+        /// <summary>
+        /// Adding Part Time Wage
+        /// </summary>
         public static void DailyWage()
         {
             Random random = new Random();
