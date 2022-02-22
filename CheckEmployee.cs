@@ -8,6 +8,9 @@ namespace EmployeeWageProgram
 {
     public class CheckEmployee
     {
+        /// <summary>
+        /// Checks the employee present or not.
+        /// </summary>
         public static void CheckEmployeePresentOrNot()
         {
             Random random = new Random();
